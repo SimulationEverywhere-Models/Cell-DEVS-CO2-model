@@ -1,0 +1,1 @@
+{"name":"roomco2","simulator":"Lopez","type":"Cell-DEVS","models":[{"name":"room","ports":[{"name":"out","type":"output","style":0},{"name":"out_c","type":"output","style":0},{"name":"out_ty","type":"output","style":0},{"name":"out_co","type":"output","style":0},{"name":"out_s","type":"output","style":0}]}],"size":[30,20,1]}
